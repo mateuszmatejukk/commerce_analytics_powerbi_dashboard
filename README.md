@@ -1,1 +1,1 @@
-# commerce_analytics_powerbi_dashboard
+# Built on top of commerce_analytics_mini_platform
