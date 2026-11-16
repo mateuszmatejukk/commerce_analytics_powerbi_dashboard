@@ -1,7 +1,7 @@
 # Commerce Analytics Power BI Dashboard
 
 Two-page Power BI dashboard built on top of the PostgreSQL gold layer from my
-(https://github.com/mateuszmatejukk/commerce_analytics_mini_platform) project.
+https://github.com/mateuszmatejukk/commerce_analytics_mini_platform project.
 
 ## Overview
 
