@@ -9,14 +9,14 @@ The dashboard connects directly to PostgreSQL and visualizes the sales, customer
 product data modeled in the gold and silver layers (EduCommerce dataset).
 
 ## Page 1: Sales Overview
-![Sales Overview](dashboard_sales_overview.png)
+![Sales Overview](images/dashboard_sales_overview.png)
 - KPI cards: Net Revenue, Gross Revenue, Discount Share %, Orders
 - Monthly net revenue trend (line chart)
 - Net revenue by country (bar chart)
 - Slicers: country and date range
 
 ## Page 2: Customers & Products
-![Customers and Products](dashboard_customers_products.png)
+![Customers and Products](images/dashboard_customers_products.png)
 - Top 5 customers by net revenue (Top N filter)
 - Top 3 products by net revenue, filterable by category and month (Top N filter)
 - Orders by payment status (donut chart)
